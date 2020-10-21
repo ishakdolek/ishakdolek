@@ -1,5 +1,7 @@
 ### Merhaba. Ben İshak DÖLEK. Yarışmaya Sakarya'dan katılıyorum. 👋
 - Meraklı bir yazılımcıyım 😄
+- Çalışmayı seviyorum galiba 😄
+
 
 Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillere de ilgim var. 
 
